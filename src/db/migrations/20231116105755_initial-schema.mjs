@@ -4,7 +4,3 @@ export const up = async (db) => {
     table.text("name").notNullable()
   })
 }
-
-export const down = async (db) => {
-  await db.schema.dropTable("products")
-}

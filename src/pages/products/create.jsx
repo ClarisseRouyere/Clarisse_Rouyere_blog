@@ -31,7 +31,7 @@ const CreatePage = () => {
         categoryId,
       })
 
-      // router.push(`/products/${product.id}`)
+      router.push(`/products/${product.id}`)
     },
     [saveProduct, router],
   )

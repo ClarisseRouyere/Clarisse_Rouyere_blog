@@ -1,0 +1,304 @@
+{"type":"HTTP","requestId":"45219a53-0c3e-4513-98f4-a9cd089f0dbb","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"45219a53-0c3e-4513-98f4-a9cd089f0dbb","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"7edf8c12-ad87-4148-8380-183f1acee810","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"7edf8c12-ad87-4148-8380-183f1acee810","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"8b6c67e8-c60e-4827-9ffb-b291480c03dc","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"8b6c67e8-c60e-4827-9ffb-b291480c03dc","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"90325e68-6bae-4efe-9dac-78cace4976ab","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"90325e68-6bae-4efe-9dac-78cace4976ab","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"cc751b6e-b25b-4ae1-b285-349404e672b9","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"cc751b6e-b25b-4ae1-b285-349404e672b9","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"e312ff8d-d6fb-4b85-be44-4a22efffb3a6","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"e312ff8d-d6fb-4b85-be44-4a22efffb3a6","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"b123dd57-6fe4-4f86-a77e-899758625498","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"b123dd57-6fe4-4f86-a77e-899758625498","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"61f9aed7-aec4-4f21-a138-681b6b369659","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"61f9aed7-aec4-4f21-a138-681b6b369659","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"782a442f-3bbb-4432-9b4f-2f75e368404e","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"782a442f-3bbb-4432-9b4f-2f75e368404e","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"b71f7b5f-5d50-48f4-a37f-f159d2d4ecac","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"b71f7b5f-5d50-48f4-a37f-f159d2d4ecac","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"1434f491-d575-443e-a739-0f060fc8458d","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"1434f491-d575-443e-a739-0f060fc8458d","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"394da625-d6fa-4594-b087-451c94da683d","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"394da625-d6fa-4594-b087-451c94da683d","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"aa41c4b4-fd5e-4aea-a176-0b3ef696b8d8","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"aa41c4b4-fd5e-4aea-a176-0b3ef696b8d8","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"5fdeea71-7ad2-4fcc-b10a-f8cea76991cc","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"5fdeea71-7ad2-4fcc-b10a-f8cea76991cc","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"9a3b795a-2130-4512-ac46-866985b5597b","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"9a3b795a-2130-4512-ac46-866985b5597b","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"24745e64-3c4b-4413-9115-acd257cac2ec","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"24745e64-3c4b-4413-9115-acd257cac2ec","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"9fc6f0b9-1bea-4abd-94a1-8eea037f553c","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"9fc6f0b9-1bea-4abd-94a1-8eea037f553c","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"129e79e9-8160-4f5b-98a9-b5a176648fc6","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"129e79e9-8160-4f5b-98a9-b5a176648fc6","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"fc600181-a5e0-450d-906e-b0df1eda3423","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"fc600181-a5e0-450d-906e-b0df1eda3423","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"2fc27224-ce88-426a-a0ff-9e8c270ba2d0","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"2fc27224-ce88-426a-a0ff-9e8c270ba2d0","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"24266202-3e24-4b9b-b22c-87d7e79073a9","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"24266202-3e24-4b9b-b22c-87d7e79073a9","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"5b57f2f3-7e41-4a0e-8df9-c28e6e808554","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"5b57f2f3-7e41-4a0e-8df9-c28e6e808554","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"8b8466fd-92fc-4c95-8b2a-450ebcb4b1fb","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"8b8466fd-92fc-4c95-8b2a-450ebcb4b1fb","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"1c6f0419-a353-4dbf-825a-2f585628d3f2","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"1c6f0419-a353-4dbf-825a-2f585628d3f2","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"d1a13cb5-5942-4ed5-94cb-87c3f922f1e2","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"d1a13cb5-5942-4ed5-94cb-87c3f922f1e2","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"c66c1ab8-c973-485c-8924-790710cff06e","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"c66c1ab8-c973-485c-8924-790710cff06e","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"HTTP","requestId":"c2e7dc62-c382-49ce-90b3-65f772e732d5","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"c2e7dc62-c382-49ce-90b3-65f772e732d5","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"c2e7dc62-c382-49ce-90b3-65f772e732d5","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"c2e7dc62-c382-49ce-90b3-65f772e732d5","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"603d6504-f298-4ee9-b150-21db7d5bcbd6","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"603d6504-f298-4ee9-b150-21db7d5bcbd6","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"603d6504-f298-4ee9-b150-21db7d5bcbd6","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"603d6504-f298-4ee9-b150-21db7d5bcbd6","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"8aba0942-ef9f-47a1-95b8-3e5fe4f16539","method":"GET","url":"/api/products?page=2"}
+{"type":"SQL","requestId":"8aba0942-ef9f-47a1-95b8-3e5fe4f16539","sql":"select \"products\".* from \"products\" limit $1 offset $2","bindings":[5,5]}
+{"type":"SQL","requestId":"8aba0942-ef9f-47a1-95b8-3e5fe4f16539","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4, $5)","bindings":[10,21,24,7,5]}
+{"type":"SQL","requestId":"8aba0942-ef9f-47a1-95b8-3e5fe4f16539","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"1bd3a0fa-3689-4956-90fc-7e4a4840c96c","method":"GET","url":"/api/products?page=3"}
+{"type":"SQL","requestId":"1bd3a0fa-3689-4956-90fc-7e4a4840c96c","sql":"select \"products\".* from \"products\" limit $1 offset $2","bindings":[5,10]}
+{"type":"SQL","requestId":"1bd3a0fa-3689-4956-90fc-7e4a4840c96c","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4, $5)","bindings":[4,5,19,15,9]}
+{"type":"SQL","requestId":"1bd3a0fa-3689-4956-90fc-7e4a4840c96c","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"0a55793d-5f92-4449-b4b4-06fd7db5d087","method":"GET","url":"/api/products?page=2"}
+{"type":"SQL","requestId":"0a55793d-5f92-4449-b4b4-06fd7db5d087","sql":"select \"products\".* from \"products\" limit $1 offset $2","bindings":[5,5]}
+{"type":"SQL","requestId":"0a55793d-5f92-4449-b4b4-06fd7db5d087","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4, $5)","bindings":[10,21,24,7,5]}
+{"type":"SQL","requestId":"0a55793d-5f92-4449-b4b4-06fd7db5d087","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"e4e81153-ab39-4e2f-97d2-f1eb2da37495","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"e4e81153-ab39-4e2f-97d2-f1eb2da37495","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"e4e81153-ab39-4e2f-97d2-f1eb2da37495","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"e4e81153-ab39-4e2f-97d2-f1eb2da37495","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"805627b9-21e4-4c29-b7b8-3afb426abb2f","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"805627b9-21e4-4c29-b7b8-3afb426abb2f","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"805627b9-21e4-4c29-b7b8-3afb426abb2f","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"805627b9-21e4-4c29-b7b8-3afb426abb2f","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"f83b7f09-6fd6-40bc-b188-82528a8ee73f","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"f83b7f09-6fd6-40bc-b188-82528a8ee73f","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"f83b7f09-6fd6-40bc-b188-82528a8ee73f","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"f83b7f09-6fd6-40bc-b188-82528a8ee73f","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"d19c2578-e098-438d-a93e-b62d9df586bf","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"d19c2578-e098-438d-a93e-b62d9df586bf","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"d19c2578-e098-438d-a93e-b62d9df586bf","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"d19c2578-e098-438d-a93e-b62d9df586bf","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"c0a127f6-5b09-4c4a-a9d3-73ba22bbf12b","method":"GET","url":"/api/products?page=2"}
+{"type":"SQL","requestId":"c0a127f6-5b09-4c4a-a9d3-73ba22bbf12b","sql":"select \"products\".* from \"products\" limit $1 offset $2","bindings":[5,5]}
+{"type":"SQL","requestId":"c0a127f6-5b09-4c4a-a9d3-73ba22bbf12b","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4, $5)","bindings":[10,21,24,7,5]}
+{"type":"SQL","requestId":"c0a127f6-5b09-4c4a-a9d3-73ba22bbf12b","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"c3b0b740-9b8a-4cf9-ac33-038626241fa2","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"c3b0b740-9b8a-4cf9-ac33-038626241fa2","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"c3b0b740-9b8a-4cf9-ac33-038626241fa2","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"c3b0b740-9b8a-4cf9-ac33-038626241fa2","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"59854c42-4f78-4145-b3ea-3d3fbb1e6027","method":"POST","url":"/api/users"}
+{"type":"SQL","requestId":"59854c42-4f78-4145-b3ea-3d3fbb1e6027","sql":"select \"users\".* from \"users\" where \"email\" = $1","bindings":["test@gmail.com"]}
+{"type":"SQL","requestId":"59854c42-4f78-4145-b3ea-3d3fbb1e6027","sql":"insert into \"users\" (\"email\", \"passwordHash\", \"passwordSalt\") values ($1, $2, $3) returning \"id\"","bindings":["test@gmail.com","efb300eff464e836c354035e28b869e3691680eecaa737782ec0cdd7f9d6cf2fc6587be7cbdc39fdf51d859cbf7a75552e1a9b19eb93964482aa8a817f407600b7817945b3c06d8124a42c0a16b64f9a0495a2f89efceece543cce8f5bcc4bef67377de58094ba929b38eb42298a8cd62117697c57b305f43d0c3ecb80eadfde885f7319d287db23293acaac23d6bb277c939bf007880a770696cc419e2a4fa358c7cd875e978bbf894ffe8b02ba9e1a343ea2c840d3d811ecc90010e1f7b3c8ac2de5232d1b05ae60ab01ea07079775e358c1ba8f5f1efed7732ac71316c6931b6c81ea542d4932aaccf60c6639c53a326f3343f297069006ef98765cf732d8","577fc0e3fddd897b80cdf2aca5f8e62110f5d17053f742d5cd06611714c2d7576bbd9578da0aa33cd54421f2aeeedc261edcfa7628e84baa96086e34700966633f070d5255f5d3ced67a3c1f30abdc3054ad69a3999069a757efa03caa1bfac247d8a13a37fd7f214b805c392757e76033b2ea7b0d3f56934b2760e2905f72f1"]}
+{"type":"HTTP","requestId":"4ba63a7f-471b-4327-94b1-d50b45b2d5aa","method":"POST","url":"/api/sessions"}
+{"type":"SQL","requestId":"4ba63a7f-471b-4327-94b1-d50b45b2d5aa","sql":"select \"users\".* from \"users\" where \"email\" = $1","bindings":["test@gmail.com"]}
+{"type":"HTTP","requestId":"7fa8487f-b8d5-48f6-a66a-ac944aa0d97a","method":"POST","url":"/api/users"}
+{"type":"SQL","requestId":"7fa8487f-b8d5-48f6-a66a-ac944aa0d97a","sql":"select \"users\".* from \"users\" where \"email\" = $1","bindings":["crouyere78@gmail.com"]}
+{"type":"SQL","requestId":"7fa8487f-b8d5-48f6-a66a-ac944aa0d97a","sql":"insert into \"users\" (\"email\", \"passwordHash\", \"passwordSalt\") values ($1, $2, $3) returning \"id\"","bindings":["crouyere78@gmail.com","c42381db37599f1ae72fc711a052e1edf52599ef9be9dcd1bd6b9e601978ed6a7fbbd891359e389ace9f6f1cf65ffb23f6fa3e76438e010254f6043cca8d53176cf8fd7521b32fccd86c9f6586243f54a1db553bb6540bc0d63f2043d21cf68362b74aa79adfc01a0f187883bfd35625b705e22c348b6e51cb7807e6c6186449bc1ee57c8da79a68a353724ca279be0c8d39a5440de8a7c44f8b6b04c8323c62d060fb43ba87f018087d77b9da99d11e8c54a9df04852a474d69282f7995ac34f78032483553ce7c4632eca58fd6b75768c46e6ec7c9a7c7dbca04a4d3b9178d2b749ec80f71ed8e6545637538d8761ac5329367199d65a54112a76c8027f563","bdfb1bdc7516e51db7030cce4d3e380e82cb0a2e8ea1eee89154390cfcad8a96b8a7f7f08cc24dd91f04696e7a89dc42f6ed31b8cefc1de9fccc978e53abd18b6d66b68c072fbb8b0111a2cd20021bf969cab7114405ed1774a682ac1c531bb76de9c10f21175abd2ed7b431c08eb594aa5abc777c0eab84d2d6d55542135dec"]}
+{"type":"HTTP","requestId":"dc57c53d-5e88-4a07-8cfa-719acc306647","method":"POST","url":"/api/sessions"}
+{"type":"SQL","requestId":"dc57c53d-5e88-4a07-8cfa-719acc306647","sql":"select \"users\".* from \"users\" where \"email\" = $1","bindings":["crouyere78@gmail.com"]}
+{"type":"HTTP","requestId":"3c83c6d4-93cc-4f63-bc1b-fd1c4c1f743e","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"3c83c6d4-93cc-4f63-bc1b-fd1c4c1f743e","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"3c83c6d4-93cc-4f63-bc1b-fd1c4c1f743e","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"3c83c6d4-93cc-4f63-bc1b-fd1c4c1f743e","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"5d89e26e-aec7-4920-bf9d-3ac3e3cb4dbd","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"5d89e26e-aec7-4920-bf9d-3ac3e3cb4dbd","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"5d89e26e-aec7-4920-bf9d-3ac3e3cb4dbd","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"5d89e26e-aec7-4920-bf9d-3ac3e3cb4dbd","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"7a400ca1-d079-42bb-b313-0ff5aefd60ee","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"7a400ca1-d079-42bb-b313-0ff5aefd60ee","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"7a400ca1-d079-42bb-b313-0ff5aefd60ee","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"7a400ca1-d079-42bb-b313-0ff5aefd60ee","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"a1f0a4fe-11d9-4606-a4d6-d07301c28ff4","method":"GET","url":"/api/products/1"}
+{"type":"SQL","requestId":"a1f0a4fe-11d9-4606-a4d6-d07301c28ff4","sql":"select \"products\".* from \"products\" where \"products\".\"id\" = $1","bindings":[1]}
+{"type":"SQL","requestId":"a1f0a4fe-11d9-4606-a4d6-d07301c28ff4","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1)","bindings":[9]}
+{"type":"HTTP","requestId":"c5663124-30f9-4d32-999a-8ad63aa9f8e1","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"c5663124-30f9-4d32-999a-8ad63aa9f8e1","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"c5663124-30f9-4d32-999a-8ad63aa9f8e1","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"c5663124-30f9-4d32-999a-8ad63aa9f8e1","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"eeeecd7e-6eac-4c9e-8956-42ca10752b71","method":"GET","url":"/api/products/2"}
+{"type":"SQL","requestId":"eeeecd7e-6eac-4c9e-8956-42ca10752b71","sql":"select \"products\".* from \"products\" where \"products\".\"id\" = $1","bindings":[2]}
+{"type":"SQL","requestId":"eeeecd7e-6eac-4c9e-8956-42ca10752b71","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1)","bindings":[20]}
+{"type":"HTTP","requestId":"ea8f3eb7-890d-449a-b444-b8b3e8f9951b","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"ea8f3eb7-890d-449a-b444-b8b3e8f9951b","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"ea8f3eb7-890d-449a-b444-b8b3e8f9951b","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"ea8f3eb7-890d-449a-b444-b8b3e8f9951b","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"7bc08a59-c0bf-442c-9b5b-e7f134c568b3","method":"GET","url":"/api/products/4"}
+{"type":"SQL","requestId":"7bc08a59-c0bf-442c-9b5b-e7f134c568b3","sql":"select \"products\".* from \"products\" where \"products\".\"id\" = $1","bindings":[4]}
+{"type":"SQL","requestId":"7bc08a59-c0bf-442c-9b5b-e7f134c568b3","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1)","bindings":[6]}
+{"type":"HTTP","requestId":"472c34c2-b756-42e2-934d-ae7e0cb4ebc2","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"472c34c2-b756-42e2-934d-ae7e0cb4ebc2","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"472c34c2-b756-42e2-934d-ae7e0cb4ebc2","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"472c34c2-b756-42e2-934d-ae7e0cb4ebc2","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"115b4955-2135-4bbb-b8ba-c1fe64b50ec6","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"115b4955-2135-4bbb-b8ba-c1fe64b50ec6","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"115b4955-2135-4bbb-b8ba-c1fe64b50ec6","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"115b4955-2135-4bbb-b8ba-c1fe64b50ec6","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"0d9129c4-945b-4718-b09d-b1d1712b5a11","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"0d9129c4-945b-4718-b09d-b1d1712b5a11","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"0d9129c4-945b-4718-b09d-b1d1712b5a11","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"0d9129c4-945b-4718-b09d-b1d1712b5a11","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"6f5f1528-7d3c-4580-9593-fd5869b7e1f3","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"6f5f1528-7d3c-4580-9593-fd5869b7e1f3","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"6f5f1528-7d3c-4580-9593-fd5869b7e1f3","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"6f5f1528-7d3c-4580-9593-fd5869b7e1f3","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"37ffdaab-f079-4626-8c1f-de871b2de0a1","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"37ffdaab-f079-4626-8c1f-de871b2de0a1","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"37ffdaab-f079-4626-8c1f-de871b2de0a1","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"37ffdaab-f079-4626-8c1f-de871b2de0a1","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"ac178ee6-da15-47f4-b659-63e009a99b6b","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"ac178ee6-da15-47f4-b659-63e009a99b6b","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"ac178ee6-da15-47f4-b659-63e009a99b6b","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"ac178ee6-da15-47f4-b659-63e009a99b6b","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"75617e55-13d5-4540-8246-d22aa81280d8","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"75617e55-13d5-4540-8246-d22aa81280d8","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"75617e55-13d5-4540-8246-d22aa81280d8","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"75617e55-13d5-4540-8246-d22aa81280d8","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"daf8689d-7488-4243-899a-9720fda68f76","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"daf8689d-7488-4243-899a-9720fda68f76","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"daf8689d-7488-4243-899a-9720fda68f76","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"daf8689d-7488-4243-899a-9720fda68f76","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"8067fde7-3979-4d0a-b1de-1b766ec283c3","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"8067fde7-3979-4d0a-b1de-1b766ec283c3","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"8067fde7-3979-4d0a-b1de-1b766ec283c3","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"8067fde7-3979-4d0a-b1de-1b766ec283c3","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"26d0c21b-9bba-4394-bfe1-97db83077096","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"26d0c21b-9bba-4394-bfe1-97db83077096","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"26d0c21b-9bba-4394-bfe1-97db83077096","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"26d0c21b-9bba-4394-bfe1-97db83077096","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"7a205f4b-0932-458e-9523-1a7ef5210ab1","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"7a205f4b-0932-458e-9523-1a7ef5210ab1","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"7a205f4b-0932-458e-9523-1a7ef5210ab1","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"7a205f4b-0932-458e-9523-1a7ef5210ab1","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"8f26e1fa-7cb8-43a4-8470-e9f6e3fd527b","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"8f26e1fa-7cb8-43a4-8470-e9f6e3fd527b","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"8f26e1fa-7cb8-43a4-8470-e9f6e3fd527b","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"8f26e1fa-7cb8-43a4-8470-e9f6e3fd527b","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"0fabf301-40e3-42b7-8056-dbed87130bcf","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"0fabf301-40e3-42b7-8056-dbed87130bcf","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"0fabf301-40e3-42b7-8056-dbed87130bcf","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"0fabf301-40e3-42b7-8056-dbed87130bcf","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"f3c58c93-5e58-4348-a582-28b064c49843","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"f3c58c93-5e58-4348-a582-28b064c49843","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"f3c58c93-5e58-4348-a582-28b064c49843","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"f3c58c93-5e58-4348-a582-28b064c49843","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"6a8b81ef-a71d-4be9-a784-6cb151cb6933","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"6a8b81ef-a71d-4be9-a784-6cb151cb6933","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"6a8b81ef-a71d-4be9-a784-6cb151cb6933","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"6a8b81ef-a71d-4be9-a784-6cb151cb6933","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"e31068e3-ab7e-4982-8ae9-845eae2ea183","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"e31068e3-ab7e-4982-8ae9-845eae2ea183","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"e31068e3-ab7e-4982-8ae9-845eae2ea183","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"e31068e3-ab7e-4982-8ae9-845eae2ea183","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"7e00aabb-6ef3-427e-ac3d-71d2306ac0df","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"7e00aabb-6ef3-427e-ac3d-71d2306ac0df","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"7e00aabb-6ef3-427e-ac3d-71d2306ac0df","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"7e00aabb-6ef3-427e-ac3d-71d2306ac0df","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"656db7bd-83c8-4172-945e-2ccdee910bb5","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"656db7bd-83c8-4172-945e-2ccdee910bb5","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"656db7bd-83c8-4172-945e-2ccdee910bb5","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"656db7bd-83c8-4172-945e-2ccdee910bb5","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"77e8236e-708d-489f-a30d-9ddc316177cd","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"77e8236e-708d-489f-a30d-9ddc316177cd","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"77e8236e-708d-489f-a30d-9ddc316177cd","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"77e8236e-708d-489f-a30d-9ddc316177cd","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"29e08b00-f110-4b5f-afe4-816c6ac64e72","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"29e08b00-f110-4b5f-afe4-816c6ac64e72","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"29e08b00-f110-4b5f-afe4-816c6ac64e72","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"29e08b00-f110-4b5f-afe4-816c6ac64e72","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"f7550d13-f618-4c44-84f6-a76643f31542","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"f7550d13-f618-4c44-84f6-a76643f31542","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"f7550d13-f618-4c44-84f6-a76643f31542","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"f7550d13-f618-4c44-84f6-a76643f31542","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"16460ba0-d3a3-468e-a040-662658bfc324","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"16460ba0-d3a3-468e-a040-662658bfc324","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"16460ba0-d3a3-468e-a040-662658bfc324","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"16460ba0-d3a3-468e-a040-662658bfc324","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"5a69e744-108f-4f4e-9ce1-42233899fa74","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"5a69e744-108f-4f4e-9ce1-42233899fa74","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"5a69e744-108f-4f4e-9ce1-42233899fa74","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"5a69e744-108f-4f4e-9ce1-42233899fa74","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"47bb14b2-ae13-4f07-b8ed-2e3db69c0e8d","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"47bb14b2-ae13-4f07-b8ed-2e3db69c0e8d","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"47bb14b2-ae13-4f07-b8ed-2e3db69c0e8d","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"47bb14b2-ae13-4f07-b8ed-2e3db69c0e8d","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"51abdba8-1f00-4229-8343-066c4ddac9e0","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"51abdba8-1f00-4229-8343-066c4ddac9e0","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"51abdba8-1f00-4229-8343-066c4ddac9e0","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"51abdba8-1f00-4229-8343-066c4ddac9e0","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"bc3e360d-1396-4177-b3c4-8a64c125fcd5","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"bc3e360d-1396-4177-b3c4-8a64c125fcd5","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"bc3e360d-1396-4177-b3c4-8a64c125fcd5","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"bc3e360d-1396-4177-b3c4-8a64c125fcd5","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"125f7c2c-a4e4-4215-ae4b-fe3ecfeeca8b","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"125f7c2c-a4e4-4215-ae4b-fe3ecfeeca8b","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"125f7c2c-a4e4-4215-ae4b-fe3ecfeeca8b","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"125f7c2c-a4e4-4215-ae4b-fe3ecfeeca8b","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"91b7fec5-1ccd-47e4-a143-3d00c50aa653","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"91b7fec5-1ccd-47e4-a143-3d00c50aa653","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"91b7fec5-1ccd-47e4-a143-3d00c50aa653","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"91b7fec5-1ccd-47e4-a143-3d00c50aa653","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"1d1efb61-34ae-416e-a7e5-0dea05cf57fc","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"1d1efb61-34ae-416e-a7e5-0dea05cf57fc","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"1d1efb61-34ae-416e-a7e5-0dea05cf57fc","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"1d1efb61-34ae-416e-a7e5-0dea05cf57fc","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"749d6ada-544d-4402-a8da-8e50cf8cfcf9","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"749d6ada-544d-4402-a8da-8e50cf8cfcf9","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"749d6ada-544d-4402-a8da-8e50cf8cfcf9","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"749d6ada-544d-4402-a8da-8e50cf8cfcf9","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"c0559acd-441b-48f3-b4b2-627e55b8a312","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"c0559acd-441b-48f3-b4b2-627e55b8a312","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"c0559acd-441b-48f3-b4b2-627e55b8a312","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"c0559acd-441b-48f3-b4b2-627e55b8a312","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"0358a476-9dba-4a66-9ac1-c9e4da727c5e","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"0358a476-9dba-4a66-9ac1-c9e4da727c5e","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"0358a476-9dba-4a66-9ac1-c9e4da727c5e","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"0358a476-9dba-4a66-9ac1-c9e4da727c5e","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"df7e17c9-a604-4dbf-b422-09ba75f551e2","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"df7e17c9-a604-4dbf-b422-09ba75f551e2","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"df7e17c9-a604-4dbf-b422-09ba75f551e2","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"df7e17c9-a604-4dbf-b422-09ba75f551e2","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"8aaccc04-a5d0-4bca-a772-71610f1404e4","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"8aaccc04-a5d0-4bca-a772-71610f1404e4","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"8aaccc04-a5d0-4bca-a772-71610f1404e4","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"8aaccc04-a5d0-4bca-a772-71610f1404e4","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"5460debd-cc57-4c2a-bb50-229cd583b4c9","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"5460debd-cc57-4c2a-bb50-229cd583b4c9","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"5460debd-cc57-4c2a-bb50-229cd583b4c9","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"5460debd-cc57-4c2a-bb50-229cd583b4c9","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"7014ea96-567e-49d6-92c6-1623ff38851c","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"7014ea96-567e-49d6-92c6-1623ff38851c","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"7014ea96-567e-49d6-92c6-1623ff38851c","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"7014ea96-567e-49d6-92c6-1623ff38851c","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"7caf749f-19f9-4158-8ab3-a758e1b323a1","method":"GET","url":"/api/products?page=1"}
+{"type":"SQL","requestId":"7caf749f-19f9-4158-8ab3-a758e1b323a1","sql":"select \"products\".* from \"products\" limit $1","bindings":[5]}
+{"type":"SQL","requestId":"7caf749f-19f9-4158-8ab3-a758e1b323a1","sql":"select \"categories\".* from \"categories\" where \"categories\".\"id\" in ($1, $2, $3, $4)","bindings":[9,20,6,18]}
+{"type":"SQL","requestId":"7caf749f-19f9-4158-8ab3-a758e1b323a1","sql":"select count(*) from \"products\"","bindings":[]}
+{"type":"HTTP","requestId":"e1f473a0-049d-44cf-8660-e7f8fb9b0498","method":"POST","url":"/api/users"}
+{"type":"SQL","requestId":"e1f473a0-049d-44cf-8660-e7f8fb9b0498","sql":"select \"users\".* from \"users\" where \"email\" = $1","bindings":["crouyere78@gmail.com"]}
+{"type":"HTTP","requestId":"3b2aba1c-eb72-426f-a6c9-d25e79f1592d","method":"POST","url":"/api/sessions"}
+{"type":"SQL","requestId":"3b2aba1c-eb72-426f-a6c9-d25e79f1592d","sql":"select \"users\".* from \"users\" where \"email\" = $1","bindings":["crouyere78@gmail.com"]}
+{"type":"HTTP","requestId":"40864b14-3cdf-44bf-96c2-f52b7ac2c900","method":"POST","url":"/api/sessions"}
+{"type":"SQL","requestId":"40864b14-3cdf-44bf-96c2-f52b7ac2c900","sql":"select \"users\".* from \"users\" where \"email\" = $1","bindings":["crouyere78@gmail.com"]}
+{"type":"HTTP","requestId":"acd7f9f0-85d0-4bf5-b77d-8a7fa5482f71","method":"POST","url":"/api/sessions"}
+{"type":"SQL","requestId":"acd7f9f0-85d0-4bf5-b77d-8a7fa5482f71","sql":"select \"users\".* from \"users\" where \"email\" = $1","bindings":["crouyere78@gmail.com"]}
+{"type":"HTTP","requestId":"daa872b4-3565-4c69-a5eb-9fa957a022df","method":"POST","url":"/api/users"}
+{"type":"SQL","requestId":"daa872b4-3565-4c69-a5eb-9fa957a022df","sql":"select \"users\".* from \"users\" where \"email\" = $1","bindings":["SimpyClari@gmail.com"]}
+{"type":"SQL","requestId":"daa872b4-3565-4c69-a5eb-9fa957a022df","sql":"insert into \"users\" (\"email\", \"firstname\", \"lastname\", \"passwordHash\", \"passwordSalt\") values ($1, $2, $3, $4, $5) returning \"id\"","bindings":["SimpyClari@gmail.com","Clarisse","Rouyere","b7f5c0695f20246d15011d6bf3a85541da685a5b6318c4c0f29e60ecf9a58e025b07d6cbcd508b8c5dff019e9d09280130676fb8e9cd4d40e61a11aa30dd65923cf1879c26810e70b82eb1862c9ac913bfbcca52030578af2e92f78bc83c60f815eeb57a90770e97fc807acbfd5de972c95b8f76530704ce657891eb84d675684102b15a6e030ad3d8eac04416fe90ce969b7bb975879b163bedc6671872a3dff18e1a1c7403883e5ab6ab1a2e07b49bcbe1eeb9a7f818ddf5b325f53f9d183d675b2adfaa54992fee7017e2b81fa8258dec3ce3bd5cc969d7a629101e6d82bbaa8a649fcca036aebb682a0b6f13f9071c5be0daccefbb152344fde712b7124f","4ae104d50c131470fe18daf4e9ebfc7bf24ba0b97fcbb50e13d80ca58db98cbd477451e85417db39228d6209d5326e7fe00261877c49bc5e90e0cb5458045901c4a9bc4c8dd714d23bf14e90c256436cd04fc442f416805b3c5da885c27345872e7232d185e89e7c06a4161904078c123fe66c4386301a792d2d614121285674"]}
+{"type":"HTTP","requestId":"d12759cd-a5a6-4a98-9768-04ede85e1a56","method":"POST","url":"/api/sessions"}
+{"type":"SQL","requestId":"d12759cd-a5a6-4a98-9768-04ede85e1a56","sql":"select \"users\".* from \"users\" where \"email\" = $1","bindings":["SimpyClari@gmail.com"]}
+{"type":"HTTP","requestId":"3e0ac273-8515-4a61-a67c-5e5063fbca4f","method":"POST","url":"/api/sessions"}
+{"type":"SQL","requestId":"3e0ac273-8515-4a61-a67c-5e5063fbca4f","sql":"select \"users\".* from \"users\" where \"email\" = $1","bindings":["SimpyClari@gmail.com"]}
+{"type":"HTTP","requestId":"e23659b7-76d0-4960-89af-c44a55a2703b","method":"POST","url":"/api/sessions"}
+{"type":"SQL","requestId":"e23659b7-76d0-4960-89af-c44a55a2703b","sql":"select \"users\".* from \"users\" where \"email\" = $1","bindings":["SimpyClari@gmail.com"]}
+{"type":"HTTP","requestId":"5cc6b15e-9a7f-4c94-b081-2b5569a80fee","method":"POST","url":"/api/users"}
+{"type":"SQL","requestId":"5cc6b15e-9a7f-4c94-b081-2b5569a80fee","sql":"select \"users\".* from \"users\" where \"email\" = $1","bindings":["test@gmail.com"]}
+{"type":"HTTP","requestId":"f7acd2ee-3920-4c04-a8ba-e48598d83b58","method":"POST","url":"/api/sessions"}
+{"type":"SQL","requestId":"f7acd2ee-3920-4c04-a8ba-e48598d83b58","sql":"select \"users\".* from \"users\" where \"email\" = $1","bindings":["test@gmail.com"]}

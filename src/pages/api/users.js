@@ -3,7 +3,7 @@ import mw from "@/api/mw"
 import hashPassword from "@/db/hashPassword"
 import { AVERAGE_PASSWORD_HASHING_DURATION } from "@/pages/api/constants"
 import sleep from "@/utils/sleep"
-import { emailValidator, passwordValidator } from "@/utils/validators"
+import { emailValidator, passwordValidator, firstnameValidator, lastnameValidator} from "@/utils/validators"
 
 const handle = mw({
   POST: [
@@ -11,12 +11,14 @@ const handle = mw({
       body: {
         email: emailValidator.required(),
         password: passwordValidator.required(),
+        firstname: firstnameValidator.required(),
+        lastname: lastnameValidator.required(),
       },
     }),
     async ({
       send,
       input: {
-        body: { email, password },
+        body: { email, password, firstname, lastname },
       },
       models: { UserModel },
     }) => {
@@ -36,6 +38,8 @@ const handle = mw({
         email,
         passwordHash,
         passwordSalt,
+        firstname,
+        lastname,
       })
 
       send(true)
